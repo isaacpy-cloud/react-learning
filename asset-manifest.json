@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/isaacpy-cloud/react-learning/static/css/main.74dc3400.css",
+    "main.js": "/isaacpy-cloud/react-learning/static/js/main.f4dd2a02.js",
+    "static/js/787.b5c7f685.chunk.js": "/isaacpy-cloud/react-learning/static/js/787.b5c7f685.chunk.js",
+    "index.html": "/isaacpy-cloud/react-learning/index.html",
+    "main.74dc3400.css.map": "/isaacpy-cloud/react-learning/static/css/main.74dc3400.css.map",
+    "main.f4dd2a02.js.map": "/isaacpy-cloud/react-learning/static/js/main.f4dd2a02.js.map",
+    "787.b5c7f685.chunk.js.map": "/isaacpy-cloud/react-learning/static/js/787.b5c7f685.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74dc3400.css",
+    "static/js/main.f4dd2a02.js"
+  ]
+}
